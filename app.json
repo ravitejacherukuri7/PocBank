@@ -1,0 +1,13 @@
+
+{
+  "expo": {
+    "scheme": "com.teja.poc",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.teja.poc"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
